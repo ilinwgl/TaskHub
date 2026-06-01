@@ -2,6 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\TaskHub.Domain\TaskHub.Domain.csproj" />
+    <ProjectReference Include="..\TaskHub.Application\TaskHub.Application.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
